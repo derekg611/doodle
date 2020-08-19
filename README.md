@@ -1,3 +1,3 @@
 # doodle
 
-<img src="/download/doodle.png" alt="web page"/>
+<img src="/downloads/doodle.png" alt="web page"/>
